@@ -1,0 +1,41 @@
+body {
+  font-family: 'Georgia', serif;
+  background-color: #f3f0e6;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+.container {
+  padding: 30px;
+  max-width: 800px;
+  margin: auto;
+}
+
+#obra-container {
+  background-color: white;
+  border-radius: 10px;
+  padding: 20px;
+  box-shadow: 0 0 15px rgba(0,0,0,0.1);
+  margin-bottom: 20px;
+}
+
+#imagem-obra {
+  max-width: 100%;
+  height: auto;
+  border-radius: 6px;
+}
+
+#nova-obra {
+  padding: 12px 25px;
+  font-size: 16px;
+  background-color: #8b0000;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+#nova-obra:hover {
+  background-color: #a30000;
+}
