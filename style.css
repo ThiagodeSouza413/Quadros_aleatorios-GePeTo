@@ -29,7 +29,7 @@ body {
 #nova-obra {
   padding: 12px 25px;
   font-size: 16px;
-  background-color: #8b0000;
+  background-color: #1a237e;
   color: white;
   border: none;
   border-radius: 6px;
@@ -37,5 +37,5 @@ body {
 }
 
 #nova-obra:hover {
-  background-color: #a30000;
+  background-color: #3949ab;
 }
